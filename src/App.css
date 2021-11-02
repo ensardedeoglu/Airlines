@@ -1,0 +1,85 @@
+.logo{
+  margin-left: 16px;
+  margin-top: 19px;
+  margin-bottom: 19px;
+  background-color: #FFFFFF;
+}
+
+body{
+  background-color: #F9FAFB;
+}
+
+.home{
+  margin-left: 94px;
+}
+
+.airlines{
+  font-family: HelveticaNeue;
+  font-size: 44px;
+  color: #000000;
+  margin-top: 67px;
+  margin-bottom: 73;
+}
+
+.alliances{
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  color:#192024;
+  margin-top: 73px;
+  margin-bottom: 23px;
+
+}
+.inputText{
+  font-family: HelveticaNeue;
+  font-size: 14px;
+  font-weight: normal;
+  color: #192024;
+  margin-right: 10px;
+}
+.filerTitle{
+  margin-left: 24px;
+}
+.filter{
+  margin-top: 23px;
+  margin-bottom: 56px;
+}
+#homeBox{
+  margin: 16px;
+  width: 300px;
+  height: 240px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  box-shadow: 0 -1px 4px 0 rgba(25, 32, 36, 0.04), 0 3px 6px 0 rgba(25, 32, 36, 0.16);
+  border:solid 1px #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+img{
+  height: 32px;
+  weight: 32px;
+}
+.airlinesName{
+  font-family: HelveticaNeue;
+  font-size: 16px;
+  font-weight: bold;
+  color: #192024;
+  margin-left:18px;
+}
+
+.container{
+  display: inline-block;
+}
+.moreInfo{
+  font-family: HelveticaNeue;
+  font-size: 14px;
+  margin-left: 5px;
+  color: #5a6872;
+}
+.allianceName{
+  font-family: HelveticaNeue;
+  font-size: 14px;
+  font-weight: normal;
+  color: #192024;
+}
